@@ -1,7 +1,9 @@
 import PyPDF2
 import spacy
-
-nlp = spacy.load("en_core_web_sm")
+try:
+    nlp = spacy.load("en_core_web_sm")
+except:
+     nlp = spacy.blank("en")
 
 skills_list = [
     "Python",

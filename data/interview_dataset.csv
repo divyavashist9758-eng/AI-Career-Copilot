@@ -1,0 +1,37 @@
+career,question_type,question
+Data Scientist,Technical,What is feature engineering?
+Data Scientist,Technical,Difference between Regression and Classification?
+Data Scientist,Technical,Explain Bias-Variance Tradeoff.
+Data Scientist,Technical,What is Cross Validation?
+Data Scientist,Technical,Explain Random Forest.
+
+Data Scientist,HR,Tell me about your Data Science projects.
+Data Scientist,HR,Why do you want to become a Data Scientist?
+Data Scientist,HR,Where do you see yourself in 5 years?
+Data Scientist,HR,Describe a challenging project you completed.
+
+ML Engineer,Technical,Explain CNN.
+ML Engineer,Technical,What is Transfer Learning?
+ML Engineer,Technical,Difference between TensorFlow and PyTorch?
+ML Engineer,Technical,Explain Model Deployment.
+ML Engineer,Technical,What is Overfitting?
+
+ML Engineer,HR,Why ML Engineering?
+ML Engineer,HR,Tell me about your ML projects.
+ML Engineer,HR,Describe a production ML pipeline.
+
+Software Engineer,Technical,Explain OOP.
+Software Engineer,Technical,What is Multithreading?
+Software Engineer,Technical,Difference between Process and Thread?
+Software Engineer,Technical,Explain REST API.
+
+Software Engineer,HR,Tell me about your software projects.
+Software Engineer,HR,Why Software Engineering?
+
+Data Analyst,Technical,Explain SQL Joins.
+Data Analyst,Technical,What is Power BI?
+Data Analyst,Technical,Difference between WHERE and HAVING?
+Data Analyst,Technical,Explain Group By.
+
+Data Analyst,HR,Tell me about your dashboard projects.
+Data Analyst,HR,Why Data Analytics?

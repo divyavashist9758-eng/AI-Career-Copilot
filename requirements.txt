@@ -11,4 +11,3 @@ PyPDF2
 opencv-python-headless
 mediapipe
 spacy
-en-core-web-smgit 
